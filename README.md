@@ -1,3 +1,11 @@
+About this fork
+===============
+This is a fork of the fluxengine codebase that has been updated to use a more recent version of ImHex that does not suffer from blurry rendering on Linux systems running the Wayland compositor.
+
+See https://github.com/davidgiven/fluxengine/pull/866 for more information.
+
+Original README.md continues below:
+
 FluxEngine
 ==========
 
